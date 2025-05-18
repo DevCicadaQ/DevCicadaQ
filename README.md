@@ -78,6 +78,14 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![GitHub Copilot CLI](https://img.shields.io/badge/-GitHub%20Copilot%20CLI-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/github/gh-copilot)
 [![GitKraken](https://img.shields.io/badge/-GitKraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white)](https://www.gitkraken.com/)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+
+[![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/ru/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/ru/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/ru/docs/Web/JavaScript)
+[![JSON](https://img.shields.io/badge/-JSON-000000?style=for-the-badge&logo=json&logoColor=white)](https://developer.mozilla.org/ru/docs/Learn/JavaScript/Objects/JSON)
+[![HTTP](https://img.shields.io/badge/-HTTP-FF6C37?style=for-the-badge&logo=http&logoColor=white)](https://developer.mozilla.org/ru/docs/Web/HTTP)
+[![API](https://img.shields.io/badge/-API-009688?style=for-the-badge&logo=api&logoColor=white)](https://developer.mozilla.org/ru/docs/Web/API)
 
 [![Swift](https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)](https://www.swift.org/)
 [![Xcode](https://img.shields.io/badge/-Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)](https://developer.apple.com/xcode/)
@@ -85,7 +93,7 @@
 [![Transporter](https://img.shields.io/badge/-Transporter-1D63ED?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/ua/app/transporter/id1450874784?l=ru&mt=12)
 [![SF Symbols](https://img.shields.io/badge/-SF%20Symbols-000000?style=for-the-badge&logo=apple&logoColor=white)](https://developer.apple.com/sf-symbols/)
 [![Codepoint](https://img.shields.io/badge/-Codepoint-5C2D91?style=for-the-badge&logo=apple&logoColor=white)](https://appahead.studio/apps/codepoint/)
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Augment](https://img.shields.io/badge/-Augment-5C2D91?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://www.augmentcode.com/)
 [![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/features/copilot)
