@@ -72,10 +72,13 @@
 [![Warp](https://img.shields.io/badge/-Warp-01A4FF?style=for-the-badge&logo=warp&logoColor=white)](https://www.warp.dev/)
 [![Termius](https://img.shields.io/badge/-Termius-000000?style=for-the-badge&logo=termius&logoColor=white)](https://termius.com/)
 [![OpenSSH](https://img.shields.io/badge/-OpenSSH-231F20?style=for-the-badge&logo=openssh&logoColor=white)](https://www.openssh.com/)
+[![GnuPG](https://img.shields.io/badge/-GnuPG-0093DD?style=for-the-badge&logo=gnupg&logoColor=white)](https://gnupg.org/)
+[![Pinentry](https://img.shields.io/badge/-Pinentry-000000?style=for-the-badge&logo=gnupg&logoColor=white)](https://github.com/GPGTools/pinentry)
 [![GitHub CLI](https://img.shields.io/badge/-GitHub%20CLI-181717?style=for-the-badge&logo=github&logoColor=white)](https://cli.github.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![GitHub Copilot CLI](https://img.shields.io/badge/-GitHub%20Copilot%20CLI-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/github/gh-copilot)
 [![GitKraken](https://img.shields.io/badge/-GitKraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white)](https://www.gitkraken.com/)
+
 [![Swift](https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)](https://www.swift.org/)
 [![Xcode](https://img.shields.io/badge/-Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)](https://developer.apple.com/xcode/)
 [![TestFlight](https://img.shields.io/badge/-TestFlight-0D96F6?style=for-the-badge&logo=testflight&logoColor=white)](https://developer.apple.com/testflight/)
