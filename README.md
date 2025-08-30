@@ -31,7 +31,7 @@
 
 ```
 > POSITION...............Junior Full-Stack Developer  
-> SPECIALIZATION.........Multi-Stack Development  
+> SPECIALIZATION.........Multi-Stack Developer  
 > EDUCATION.............Self-Taught (Ongoing)  
 > ENGLISH...............Beginner (A1)
 ```
@@ -41,6 +41,7 @@
 [![macOS](https://img.shields.io/badge/-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/macos/)
 [![Apple Developer](https://img.shields.io/badge/-Apple%20Developer-000000?style=for-the-badge&logo=apple&logoColor=white)](https://developer.apple.com/)
 [![Dracula](https://img.shields.io/badge/-Dracula-282A36?style=for-the-badge&logo=dracula&logoColor=BD93F9)](https://draculatheme.com/)
+[![Terminal (macOS)](https://img.shields.io/badge/-Terminal%20(macOS)-000000?style=for-the-badge&logo=apple&logoColor=white)](https://support.apple.com/en-gb/guide/terminal/welcome/mac)
 [![Xcode CLT](https://img.shields.io/badge/-Xcode%20Command%20Line%20Tools-147EFB?style=for-the-badge&logo=xcode&logoColor=white)](https://developer.apple.com/xcode/resources/)
 [![Homebrew](https://img.shields.io/badge/-Homebrew-FBB040?style=for-the-badge&logo=homebrew&logoColor=black)](https://brew.sh/)
 [![mas](https://img.shields.io/badge/-mas-000000?style=for-the-badge&logo=appstore&logoColor=white)](https://github.com/mas-cli/mas)
